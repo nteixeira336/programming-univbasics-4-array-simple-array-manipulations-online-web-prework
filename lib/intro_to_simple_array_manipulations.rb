@@ -26,3 +26,6 @@ end
 def using_concat 
   colors_in_the_rainbow.concat (["orange", "brown"])
 end 
+def using_insert
+  colors_in_the_rainbow.insert ("silver")
+end 
