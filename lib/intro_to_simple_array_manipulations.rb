@@ -32,3 +32,6 @@ end
 def using_uniq
   colors_in_the_rainbow.uniq 
 end 
+def using_flatten
+  colors_in_the_rainbow.flatten 
+end 
