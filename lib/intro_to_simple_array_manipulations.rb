@@ -10,3 +10,7 @@ end
 def using_pop
   colors_in_the_rainbow.pop 
 end 
+
+def pop_with_args
+  colors_in_the_rainbow.pop (2)
+end 
