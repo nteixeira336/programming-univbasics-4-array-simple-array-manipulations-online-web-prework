@@ -14,3 +14,7 @@ end
 def pop_with_args
   colors_in_the_rainbow.pop (2)
 end 
+
+def using_shift
+  colors_in_the_rainbow.shift 
+end 
