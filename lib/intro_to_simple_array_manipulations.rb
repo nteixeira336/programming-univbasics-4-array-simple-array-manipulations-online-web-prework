@@ -6,3 +6,7 @@ end
 def "using_unshift"
   colors_in_the_rainbow.unshift ("pink")
 end 
+
+def using_pop
+  colors_in_the_rainbow.pop 
+end 
