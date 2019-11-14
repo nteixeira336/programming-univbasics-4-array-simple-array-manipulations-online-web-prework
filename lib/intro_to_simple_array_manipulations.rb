@@ -35,3 +35,7 @@ end
 def using_flatten
   colors_in_the_rainbow.flatten 
 end 
+
+def using_delete
+  colors_in_the_rainbow.delete ("pink")
+end 
