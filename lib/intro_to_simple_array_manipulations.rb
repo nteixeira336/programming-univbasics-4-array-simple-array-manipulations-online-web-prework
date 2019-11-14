@@ -41,4 +41,5 @@ def using_delete
 end 
 
 def using_delete_at 
-  colors_in_the_rainbow
+  colors_in_the_rainbow.delete_at (2)
+end 
