@@ -18,3 +18,6 @@ end
 def using_shift
   colors_in_the_rainbow.shift 
 end 
+
+def shift_with_args 
+  
