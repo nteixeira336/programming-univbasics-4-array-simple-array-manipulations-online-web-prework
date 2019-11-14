@@ -20,4 +20,5 @@ def using_shift
 end 
 
 def shift_with_args 
-  
+  colors_in_the_rainbow.shift (2)
+end 
