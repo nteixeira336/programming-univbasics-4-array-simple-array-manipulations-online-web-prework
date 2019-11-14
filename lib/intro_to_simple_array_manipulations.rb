@@ -39,3 +39,6 @@ end
 def using_delete
   colors_in_the_rainbow.delete ("pink")
 end 
+
+def using_delete_at 
+  colors_in_the_rainbow
