@@ -24,4 +24,4 @@ def shift_with_args
 end 
 
 def using_concat 
-  colors_in_the_rainbow.concat
+  colors_in_the_rainbow.concat ("orange", "brown")
