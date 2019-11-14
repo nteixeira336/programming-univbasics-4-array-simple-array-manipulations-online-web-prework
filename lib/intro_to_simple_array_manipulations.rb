@@ -29,3 +29,6 @@ end
 def using_insert
   colors_in_the_rainbow.insert ("silver")
 end 
+def using_uniq
+  colors_in_the_rainbow.uniq 
+end 
